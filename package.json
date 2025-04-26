@@ -4,6 +4,7 @@
   "description": "Showing lego poweredup to Ragil",
   "main": "index.js",
   "scripts": {
+    "start": "tsx example.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
