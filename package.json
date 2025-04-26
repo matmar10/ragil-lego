@@ -1,0 +1,26 @@
+{
+  "name": "ragil-lego",
+  "version": "0.0.1",
+  "description": "Showing lego poweredup to Ragil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmar10/ragil-lego.git"
+  },
+  "keywords": [
+    "Lego",
+    "Duplo"
+  ],
+  "author": "Matthew J. Martin <matthew.mar10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmar10/ragil-lego/issues"
+  },
+  "homepage": "https://github.com/matmar10/ragil-lego#readme",
+  "dependencies": {
+    "node-poweredup": "^9.0.0"
+  }
+}
