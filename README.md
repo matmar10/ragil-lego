@@ -8,7 +8,7 @@
 3. Run the example file
 
 ```Bash
-git clone
+git clone https://github.com/matmar10/ragil-lego.git
 npm install
 npm start
 ```
