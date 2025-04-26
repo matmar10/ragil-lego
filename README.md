@@ -8,8 +8,8 @@
 3. Run the example file
 
 ```Bash
-git clone 
+git clone
 npm install
-npx tsx example.ts
+npm start
 ```
 
